@@ -9,9 +9,6 @@ This project provides an in-depth analysis of employment trends, wage distributi
 - **Job Stability & ROI** – Evaluating jobs based on financial return and career security.
 - **Skills & Qualifications Analysis** – Identifying skill demand across industries.
 
-## 📂 Repository Structure
-employment-wage-analysis/ │── data/ # Raw & processed datasets │── figures/ # Generated graphs & figures for the report │── reports/ # Final reports, insights & summaries │── notebooks/ # Jupyter Notebooks for analysis & visualization │── scripts/ # Python scripts for data processing & visualization │── README.md # Project documentation │── requirements.txt # List of dependencies
-
 ## 🔍 Questions Answered in the Report
 1. **What qualifications & skills are required for top jobs?**
    - Analysis of skill demand across industries.
